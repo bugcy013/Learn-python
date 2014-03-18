@@ -1,3 +1,4 @@
+#! /usr/bin/python
 
 def sanitize(time_string):
     if '-' in time_string:
