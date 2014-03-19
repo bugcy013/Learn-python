@@ -1,4 +1,8 @@
+#! /usr/bin/python
 
+#
+# Author :: Vimala
+#
 def sanitize(time_string):
     if '-' in time_string:
         splitter = '-'
